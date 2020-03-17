@@ -1,9 +1,9 @@
 Trabalho final realizado em maio de 2016, no primeiro semestre da faculdade.
 
-Linguagem: C++
-Disciplina: Algoritmos
-Curso: Tecnologia em análise e desenvolvimento de sistemas
-Instituição: UDESC - Universidade do Estado de Santa Catarina
+Linguagem: C++ <br>
+Disciplina: Algoritmos <br>
+Curso: Tecnologia em análise e desenvolvimento de sistemas <br>
+Instituição: UDESC - Universidade do Estado de Santa Catarina <br>
 
 Consiste em um jogo de adivinhação.
 É gerado um número aleatório de 1 a 100, o jogador dá palpites e recebe uma resposta de "Está quente" ou "Está frio" indicando a proximidade do palpite com o número sorteado.
