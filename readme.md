@@ -1,4 +1,6 @@
 Trabalho final realizado em maio de 2016, no primeiro semestre da faculdade.
+
+Linguagem: C++
 Disciplina: Algoritmos
 Curso: Tecnologia em análise e desenvolvimento de sistemas
 Instituição: UDESC - Universidade do Estado de Santa Catarina
